@@ -1,0 +1,27 @@
+{
+  "name": "polymer",
+  "version": "0.5.2000",
+  "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
+  "homepage": "http://www.polymer-project.org/",
+  "keywords": [
+    "util",
+    "client",
+    "browser",
+    "web components",
+    "web-components",
+    "flatten"
+  ],
+  "author": "Polymer Authors <polymer-dev@googlegroups.com>",
+  "private": true,
+  "dependencies": {
+    "core-component-page": "CKUpdate/core-component-page#master",
+    "polymer-expresssions": "CKUpdate/polymer-expressions#master",
+    "polymer-gestures": "CKUpdate/polymer-gestures#master",
+    "URL": "CKUpdate/URL#master",
+    "webcomponentsjs": "CKUpdate/webcomponentsjs#0.5.2000"
+  },
+  "devDependencies": {
+    "tools": "Polymer/tools#master",
+    "web-component-tester": "Polymer/web-component-tester#^1.4.2"
+  }
+}
